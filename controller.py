@@ -14,8 +14,5 @@ def giris():
         else:
             print("lütfen geçerli bir sayı giriniz")
 
-
-
-
 if __name__ == '__main__':
     giris()
